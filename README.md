@@ -1,0 +1,1 @@
+Simple script to get the stock prices from GPW website and save into database.
