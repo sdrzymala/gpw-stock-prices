@@ -9,7 +9,7 @@ certifi==2019.9.11
 cffi==1.13.2
 chardet==3.0.4
 colour==0.1.5
-cryptography==2.8
+cryptography==3.2
 furl==2.1.0
 idna==2.8
 infinity==1.4
